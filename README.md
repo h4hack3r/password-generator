@@ -13,12 +13,13 @@ On Windows, use [Chocolatey](https://chocolatey.io):
 choco install rust
 ```
 
-## Usage
- Clone:
+Then, clone the repo:
 ```bash
 git clone https://github.com/h4hack3r/password-generator.git
 ```
 
+## Usage
+ 
  Build:
 ```bash
 cargo build 
@@ -29,7 +30,7 @@ cargo build
 cargo run
 ```
 
-# Example:
+### Example:
 ```
 Welcome to the Password Generator!
 How many letters would you like in your password?
