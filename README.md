@@ -20,15 +20,10 @@ cd password-generator
 ```
 ## Usage
  
- Build:
 ```bash
 cargo build 
-```
- Run:
-```bash
 cargo run
 ```
-
 ### Example:
 ```
 Welcome to the Password Generator!
