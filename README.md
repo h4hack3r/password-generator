@@ -3,32 +3,33 @@
 A fast gassword generator.
 
 ## Installation
-Install cargo if you haven't:
+Install [cargo](https://crates.io) if you haven't:
 
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
-On Windows, use:
+On Windows, use [Chocolatey](https://chocolatey.io):
 ```PowerShell
 choco install rust
 ```
 
 ## Usage
-Clone:
+ Clone:
 ```bash
-cargo run
+git clone https://github.com/h4hack3r/password-generator.git
 ```
 
-Build:
+ Build:
 ```bash
 cargo build 
 ```
 
-Run:
+ Run:
 ```bash
 cargo run
 ```
 
+# Example:
 ```
 Welcome to the Password Generator!
 How many letters would you like in your password?
