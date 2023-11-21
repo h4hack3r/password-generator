@@ -13,18 +13,19 @@ On Windows, use [Chocolatey](https://chocolatey.io):
 choco install rust
 ```
 
-#### Then, clone the repo:
+### Then, clone the repo:
 ```bash
 git clone https://github.com/h4hack3r/password-generator.git
 ```
-
+```bash
+cd password-generator
+```
 ## Usage
  
  Build:
 ```bash
 cargo build 
 ```
-
  Run:
 ```bash
 cargo run
