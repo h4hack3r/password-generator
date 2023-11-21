@@ -16,8 +16,6 @@ choco install rust
 ### Then, clone the repo:
 ```bash
 git clone https://github.com/h4hack3r/password-generator.git
-```
-```bash
 cd password-generator
 ```
 ## Usage
